@@ -1,0 +1,29 @@
+p.error-message{
+  color: #bf1650;
+  margin-bottom: 0;
+}
+p.error-message::before{
+  display: inline;
+  content: "⚠ ";
+}
+.table.mdb-dataTable td{
+  vertical-align: middle;
+}
+.edit-btn-right {
+    margin: 10px 0;
+    text-align: right;
+}
+.add-driver .card-header{
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+}
+.CircularProgressbar{
+  width: 40px!important;
+  height: 40px;
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  transform: translateY(-50%);
+  z-index:1;
+}

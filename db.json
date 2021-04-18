@@ -1,0 +1,116 @@
+{
+  "drivers": [
+    {
+      "firstName": "sunil",
+      "lastName": "eeeee",
+      "email": "fvsdfdsf@saee.com",
+      "mobile": "9813888765",
+      "id": 20,
+      "vehicleInfo": {
+        "color": "fgdgdf",
+        "year": "1999-12-31T18:15:00.000Z",
+        "modal": "Dirt",
+        "make": "fdsgdf",
+        "numberPlate": "BA 81 PA 4347"
+      },
+      "address": {
+        "address": "sasa",
+        "city": "asdasd",
+        "state": "2",
+        "country": "sadasd"
+      }
+    },
+    {
+      "firstName": "wqwq",
+      "lastName": "dgfch",
+      "email": "sdd@esdg.jh",
+      "mobile": "9876555678",
+      "id": 21
+    },
+    {
+      "firstName": "fdfsf",
+      "lastName": "sdfsdf",
+      "email": "asdaasd@sdfsdf.com",
+      "mobile": "9813999347",
+      "id": 22
+    },
+    {
+      "firstName": "asdada",
+      "lastName": "adada",
+      "email": "dsad@dsad.cg",
+      "mobile": "9813999347",
+      "id": 23
+    },
+    {
+      "firstName": "asdasdasd",
+      "lastName": "asdasdas",
+      "email": "dasads@asdad.com",
+      "mobile": "9865444567",
+      "id": 24
+    },
+    {
+      "firstName": "asdasdasd",
+      "lastName": "asdasd",
+      "email": "asdasd@das.cu",
+      "mobile": "9813999456",
+      "id": 25
+    },
+    {
+      "firstName": "dsadasd",
+      "lastName": "asdasdads",
+      "email": "sdad@gmail.com",
+      "mobile": "9813999347",
+      "id": 26
+    },
+    {
+      "firstName": "asdfsgdf",
+      "lastName": "fdghjg",
+      "email": "dfsfds@dfsf.com",
+      "mobile": "9813444567",
+      "id": 27
+    },
+    {
+      "firstName": "dsfsfsdf",
+      "lastName": "dsfsdfsd",
+      "email": "admin@admin.com",
+      "mobile": "9888888888",
+      "id": 28
+    }
+  ],
+  "riders": [
+    {
+      "firstName": "Rider edited",
+      "lastName": "test11",
+      "email": "rider@fsdsdf.sdf",
+      "mobile": "9813999347",
+      "id": 2
+    },
+    {
+      "firstName": "Rider 3",
+      "lastName": "dasdsa",
+      "email": "asda@dfsf.com",
+      "mobile": "9813999123",
+      "id": 3,
+      "address": {
+        "address": "rider 3Address",
+        "city": "adasdasd",
+        "state": "3",
+        "country": "adsads"
+      }
+    },
+    {
+      "firstName": "adasdasd",
+      "lastName": "asdasd",
+      "email": "asdasd@das.cu",
+      "mobile": "9813999346",
+      "id": 4
+    },
+    {
+      "firstName": "rider 3",
+      "lastName": "dadsa",
+      "email": "sada@dfsdf.adas",
+      "mobile": "9813999456",
+      "id": 5
+    }
+  ]
+}

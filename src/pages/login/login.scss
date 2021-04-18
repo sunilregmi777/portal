@@ -1,0 +1,43 @@
+.login-form-wrapper{
+	background: linear-gradient(#11cdef, #1171ef);
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	.card{
+		background-color:#f7fafc;
+		box-shadow:0 0 1rem 0 rgb(255, 255, 255);
+	}
+	form{
+		display: block;
+		.input-wrapper{
+			position: relative;
+			i{
+				position:absolute;
+				top:12px;
+				left: 12px;
+			}
+		}
+		input{
+			width: 100%;
+			margin-bottom: 10px;
+			padding: 10px 10px 10px 36px;
+			box-shadow: 0 1px 3px rgba(50, 50, 93, 0.15), 0 1px 0 rgba(0, 0, 0, 0.02);
+			transition: box-shadow .15s ease;
+			border:none;
+			&:focus{
+				box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+			}
+		}
+		.input-group-text{
+			background:#fff;
+		}
+		p{
+		  color: #bf1650;
+			&::before {
+			  display: inline;
+			  content: "⚠ ";
+			}
+		}
+	}
+}
